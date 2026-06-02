@@ -1,0 +1,1 @@
+Automates biulding standard project trees for simple projects and for lesson outlines. 
