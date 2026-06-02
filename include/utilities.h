@@ -1,3 +1,7 @@
 #pragma once
 
-double add(double a, double b);
+#include<string>
+
+double  add              (  double, double   );
+void    keep_window_open (                   );
+void    error            (std::string message);

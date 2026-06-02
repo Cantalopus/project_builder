@@ -9,6 +9,7 @@ int main(/*int argc, char** argv*/){
 
     std::cout<<"Hello world"<<std::endl;
     std::cout<<"result : "<<result<<std::endl;
+    keep_window_open();
 
     return 0;
 }
